@@ -1,0 +1,101 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+ 
+  color: #5a4f4f;
+  margin: 20px;
+   
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* general */
+
+
+
+.crystal-image {
+  width: 60px;
+  height: 60px;
+  margin-right: 5px;
+}
+
+.img-container {
+  padding-top: 10px;
+   clear: both;
+}
+
+
+h1 span {
+  padding: 5px;
+  font-size: 38px;
+  margin-bottom: 30px;
+  background-color: rgb(219, 183, 115);
+  color: #d2d6d6;
+}
+
+
+
+
+h2 {
+  margin-top: 10px;
+  padding: 5px;
+  background-color:  rgb(150, 172, 158);
+  color: #d2d6d6;
+  width: 160px;
+  font-size: 18px;
+}
+
+
+ 
+#text-container {
+  padding: 10px;
+
+  width: 600px;
+ float:left;
+  background: #e4bbbb;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  clear: both;
+  color: #7a8b7a
+}
+
+.text1{font-size: 15px}
+
+ #score-container {
+  display: inline-block;
+  padding: 10px;
+  height:  120px;
+  width: 100px;
+  float: left;
+  background: #a1a4c9;
+  clear: right;
+}
+
+
+
+ #num-container {
+  display: inline-block;
+  clear: left;
+  padding: 10px;
+  height:  120px;
+  width: 160px;
+ float:left;
+
+ margin-right: 10px;
+  background: #8baa8b;
+}
+
+
+#add-container {
+
+
+  padding: 10px;
+  height:  60px;
+  width: 160px;
+
+  background-color: rgb(150, 172, 158);
+  clear: right;
+}
+
